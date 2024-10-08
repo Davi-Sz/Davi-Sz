@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me @_021.davi
-- ⚡ Fun fact: ...
 
 <!---
 Davi-Sz/Davi-Sz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
